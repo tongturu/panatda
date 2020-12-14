@@ -1,0 +1,2 @@
+# panatda
+demo python program
